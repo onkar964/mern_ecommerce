@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 export const Checkout = () => {
     const checkout = async () => {
         try {
-            const response = await fetch('http://localhost:4000/checkout', {
+            const response = await fetch('https://ecommerce-backend-jp8n.onrender.com/checkout', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
