@@ -29,6 +29,7 @@
 }
 .hero-hand-icon img{
     width: 105px;
+    height: auto;
 }
 .hero-latest-btn{
     display: flex;
@@ -63,6 +64,7 @@
     }
     .hero-hand-icon img{
         width: 80px;
+        height: auto;
     }
     .hero-latest-btn{
         gap: 10px;
@@ -73,6 +75,7 @@
     }
     .hero-right img{
         width: 500px;
+        height: auto;
     }
 
 }
@@ -88,6 +91,7 @@
     }
     .hero-hand-icon img{
         width: 65px;
+        height: auto;
     }
     .hero-latest-btn{
         width: 220px;
@@ -96,6 +100,7 @@
     }
     .hero-right img{
         width: 400px;
+        height: auto;
     }
 }
 
@@ -119,6 +124,7 @@
     }
     .hero-right img{
         width: 300px;
+        height: auto;
     }
 }
 
